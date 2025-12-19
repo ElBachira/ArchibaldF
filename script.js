@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function() {
   { "time": 116, "line": "Bebé, cuánto lo siento" },
   { "time": 118, "line": "¿Quieres lastimarme?" },
   { "time": 120, "line": "¿Vas a hacerme daño?" },
-  { "time": 121, "line": "Por favor, no me abandones" }
+  { "time": 121, "line": "Por favor, no me abandones" },
   { "time": 123, "line": "Por favor, no me abandones" }
            ]
         }
